@@ -14,16 +14,16 @@ h3{
 }
 h5 {
     font-size: 80px;
-    transform: rotate(87deg);
+    transform: rotate(89deg);
     margin-top: 40px;
     animation: h5 0.8s ease-in-out 0s infinite alternate-reverse;
 }
 @keyframes h5 {
     from {
-        transform: rotate(87deg) translateX(0px);
+        transform: rotate(89deg) translateX(0px);
     }
     to {
-        transform: rotate(87deg) translateX(20px);
+        transform: rotate(89deg) translateX(20px);
     }
 }
 .main {
